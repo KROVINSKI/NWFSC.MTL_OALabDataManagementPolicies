@@ -1,0 +1,36 @@
+
+Data Management Policies
+for the OA Lab
+December 18, 2020
+
+
+
+[Link gitHUB link](https://github.com/KROVINSKI/NWFSC.MTL_OALabDataManagementPolicies.git)
+
+Contents
+# 1 Overview 1
+# 2 Users - Should this Apply to Me, What Projects does this Apply 
+# 3 Types of data
+## 3.1 Raw data 
+## 3.2 Derived data 
+## 3.3 Other types of data & things that are borderline data 
+## 3.4 Received data 
+## 3.5 Code 
+# 4 Data organization and formats 3
+## 4.1 File formats 
+## 4.2 Data formatting 
+## 4.3 Metadata 
+## 4.4 Cleaning data 
+# 5 Where to store data 5
+## 5.1 Data storage in the lab 
+## 5.2 Preferred repository for data archiving and publication
+## 5.3 READme files- Governing Large Workflows. Solving the difficulty to reproduce executions
+
+
+# x Redistribution policies & timelines 6
+## x.1 Length of time after collection to be made available to rest of lab 
+## x.2 Use of lab data 
+## x.3 Length of time after collection for data to be made public
+## x.4 Data licenses 
+# x UBC Policies 
+# 9 NOAA/NWFSC Policies... OAP policies 
