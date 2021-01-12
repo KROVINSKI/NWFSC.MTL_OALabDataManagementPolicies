@@ -22,8 +22,23 @@ Contents
 ## 4.3 Metadata 
 ## 4.4 Cleaning data 
 # 5 Where to store data 5
-## 5.1 Data storage in the lab 
+## 5.1 Data storage in the lab
+
+
+
 ## 5.2 Preferred repository for data archiving and publication
+
+Creating Folders - Format of First Four Folders
+
+1. Raw Data
+1a. Processed Data 
+
+2. Scripts and R documents
+
+3. Outputs (objects & plots)
+
+4. Presentations
+
 ## 5.3 READme files- Governing Large Workflows. Solving the difficulty to reproduce executions
 
 
