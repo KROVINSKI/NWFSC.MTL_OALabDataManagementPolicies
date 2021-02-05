@@ -1,0 +1,26 @@
+Package: metacsv
+Title: Read and Write CSV Files With Metadata
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Paul",
+           family = "McElhany",
+           role = c("aut", "cre"),
+           email = "paul.mcelhany@noaa.gov",
+           comment = c(ORCID = "0000-0002-9826-755X"))
+Description: This package provides functions to read and write csv data files 
+    that have metadata embedded at the top of the data file or in a seperate, 
+    associated csv file that includes the metadata. A number of standard formats
+    for metadata fields are available, but the package is fexible to allow for
+    user defined formats. All metadata is in human readable and editable csv
+    format.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: R (>= 2.10)
+Imports: stringr
+NeedsCompilation: no
+Packaged: 2021-02-05 01:18:51 UTC; paul.mcelhany
+Author: Paul McElhany [aut, cre] (<https://orcid.org/0000-0002-9826-755X>)
+Maintainer: Paul McElhany <paul.mcelhany@noaa.gov>

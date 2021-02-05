@@ -1,4 +1,54 @@
 
+install.packages("/Users/katherinerovinski/GIT/NWFSC.MTL_OALabDataManagementPolicies/metacsv_0.0.0.9000.tar.gz",
+                 source=TRUE, repos=NULL)
+
+library(metacsv)
+
+setwd("/Users/katherinerovinski/GIT/NWFSC.MTL_OALabDataManagementPolicies")
+
+
+
+write_meta_template(iris, "iris")
+read_meta("iris_withMeta.csv")
+
+
+
+
+
+
+
+
+
+
+
+
+#**************E*N*D*************# 
+#*********************************
+## END OF SCRIPT | END OF DOCUMENT 
+#*********************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # A function for reading in a file that might or might not have metadata
 # Metadata follows NWFSC OA standard with first row 
